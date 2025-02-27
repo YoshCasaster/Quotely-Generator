@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "author": "ANINA",
+    "tag": "motivasi",
+    "text": "AKANKAH",
+    "theme": "classic",
+    "layout": "default",
+    "font": "default",
+    "id": "1740664085635",
+    "createdAt": "2025-02-27T13:48:05.635Z"
+  },
+  {
+    "author": "",
+    "tag": "motivasi",
+    "text": "inid",
+    "theme": "classic",
+    "layout": "default",
+    "font": "default",
+    "id": "1740663211600",
+    "createdAt": "2025-02-27T13:33:31.600Z"
+  },
+  {
+    "author": "",
+    "tag": "motivasi",
+    "text": "kamu dan aku",
+    "theme": "classic",
+    "layout": "default",
+    "font": "default",
+    "id": "1740662818516",
+    "createdAt": "2025-02-27T13:26:58.516Z"
+  },
+  {
+    "author": "",
+    "tag": "sad",
+    "text": "yyyaaa",
+    "theme": "classic",
+    "layout": "big-quote",
+    "id": "1740641328421",
+    "createdAt": "2025-02-27T07:28:48.421Z"
+  },
+  {
+    "author": "",
+    "tag": "motivasi",
+    "text": "kbersamaan",
+    "id": "1740639889706",
+    "createdAt": "2025-02-27T07:04:49.706Z"
+  }
+]
